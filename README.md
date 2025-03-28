@@ -1,5 +1,7 @@
 # Simulation of State Space Models of Dynamical Systems in C++ Eigen Matrix Library Tutorial
 
+**IMPORTANT NOTE: First, thoroughly read the license in the file called LICENSE.md!**
+
 This project is used to demonstrate how to simulate a state-space model of a dynamical system in C++ using the Eigen matrix library. 
 We have used an object oriented design to simulate the system. The developed class can be integrated in other projects. The post explaining these codes is provided here:
 
